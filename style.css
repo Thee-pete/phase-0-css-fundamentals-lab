@@ -49,16 +49,21 @@ p{
   text-align: center;
 }
 #details{
-  background-color: red;
+  
   border: 0px;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+  align-content:stretch ;
+  
  
 
 }
 #details div {
   width: 25%;
-  margin-left: auto;
-  margin-right: auto;
+  float :left;
+  background-color: red
+
+
+ 
 }
